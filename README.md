@@ -1,6 +1,3 @@
-# JAVA-OOP
-Power JAVA 2nd edition solutions
-
 # 클래스와 객체 1
 
  **실제 세계는 객체로 이루어짐**
